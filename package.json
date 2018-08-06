@@ -13,6 +13,7 @@
   "author": "dragonly",
   "license": "MIT",
   "dependencies": {
-    "fast-html-parser": "^1.0.1"
+    "fast-html-parser": "^1.0.1",
+    "libui-node": "^0.2.1"
   }
 }
